@@ -1,0 +1,24 @@
+#wrapper {margin-left: auto;
+          margin-right: auto;
+          width: 80%;}
+
+body {background-color: #E9F5E2;
+      color: #454542;
+      font-family: Georgia, Verdana, sans-serif;
+      line-height: 200%;
+      width: 30%;}
+
+header {background-color: #E6D1FD;
+        text-align: center;
+        font-family: lucida, monospace;}
+
+h1 {line-height: 200%}
+
+nav {text-align: center;
+     font-weight: bold;
+     }
+
+nav a {text-decoration: none;
+      color: black;
+      padding: 5%;
+      font-family: proxima-soft, Helvetica;}
